@@ -1,5 +1,17 @@
 # Multimodal Vision Transformer
 
-SigLIP + LLaMA multimodal vision-language model for AMD GPUs.
+Vision-language model with SigLIP + LLaMA for multimodal understanding.
 
-## License: Apache 2.0
+## Architecture
+- SigLIP vision encoder (ViT-SO400M)
+- LLaMA-3 language backbone
+- Cross-attention fusion layers
+
+## Capabilities
+- Image captioning
+- Visual question answering
+- Document understanding
+- OCR-free text extraction
+
+## License
+MIT
