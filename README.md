@@ -8,10 +8,9 @@ Vision-language model with SigLIP + LLaMA for multimodal understanding.
 - Cross-attention fusion layers
 
 ## Capabilities
-- Image captioning
-- Visual question answering
-- Document understanding
-- OCR-free text extraction
+- Image captioning and VQA
+- Document understanding (OCR-free)
+- Chart and table parsing
+- Visual reasoning
 
-## License
-MIT
+## License: MIT
